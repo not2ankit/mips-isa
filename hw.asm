@@ -48,4 +48,4 @@ exit:
 
 
 .data
-fib:   .asciiz "Fibonnaci number is :"
+fib:   .asciiz "Final register val :"
